@@ -1,5 +1,4 @@
-# Práctica 1 
-### Cloud Computing
+# Práctica 1 Cloud Computing
 
 Scripts en Python para crear dos tablas en una base de datos que contengan los artículos de Wikipedia, 
 sus imagenes y etiquetas.
